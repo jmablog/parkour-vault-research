@@ -1,0 +1,11 @@
+partID,age,gender,height,boxRatio,weight,weightKg,yearsTraining,preferredFoot
+A01,28,Male,169.1,0.57,688,70.1,10,Left
+A02,32,Female,160.2,0.6,592,60.3,7,Right
+A03,40,Male,167,0.57,691,70.4,15,Left
+A04,25,Male,175.9,0.55,730,74.4,7,Right
+A05,24,Female,165.9,0.58,633,64.5,8,Right
+A06,41,Male,175.9,0.55,843,85.9,11,Left
+A07,35,Male,181.9,0.53,795,81,16,Left
+B08,21,Male,186.4,0.52,798,81.3,5,Right
+B09,24,Male,177.8,0.54,809,82.5,7,Left
+C10,24,Male,178,0.54,704,71.8,11,Left
