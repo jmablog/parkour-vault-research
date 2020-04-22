@@ -1,6 +1,6 @@
 # Parkour Vault Research
 
-Data and analysis scripts for parkour vaulting research conducted as part of a dissertation, available at: https://www.jmablog.com
+Data and analysis scripts for parkour vaulting research conducted as part of my undergraduate dissertation, available at: https://www.jmablog.com
 
 ## Data
 
