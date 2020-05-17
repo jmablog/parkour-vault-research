@@ -2,7 +2,7 @@
 
 # Parkour Vault Research
 
-Data for a parkour vaulting research project conducted as part of my undergraduate dissertation, [available to read online here](https://www.jmablog.com/_research/pkvs/pkvs.html).
+Data for a parkour vaulting research project conducted as part of my undergraduate dissertation, [available to read online here](https://www.jmablog.com/categories/research).
 
 ## Data
 
